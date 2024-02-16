@@ -67,7 +67,7 @@ La classe ubicada al paquet controllers (SucursalController, per exemple), haur�
 
 Com pots veure, a l’arxiu application.properties, hauràs de configurar que el port a utilitzar sigui el 9000.
 
-La vista haurà d’estar desenvolupada amb Thymeleaf.
+La vista haurà d’estar desenvolupada amb **Thymeleaf**.
 
 Captures de la VISTA feta amb Theymeleaf:
 
